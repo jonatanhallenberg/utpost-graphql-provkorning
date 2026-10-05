@@ -51,3 +51,5 @@ npm run dev:client                    # Vue-klienten på :3001 med hot reload
 ## Deploy
 
 Kommer i M6.
+
+Provkörning 5/10: stretch E, andra körningen av Image (gha-cachen).
